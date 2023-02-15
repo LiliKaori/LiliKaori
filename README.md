@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Sou a Liliam Yamada, sou uma programadora front end. Atualmente em aprendizado e criando projetos com HTML, CSS e iniciando aprendizado de JavaScript.
 <!--
 **LiliKaori/Lilikaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
