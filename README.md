@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou a Liliam Yamada, uma programadora front end. Atualmente aprendendo conceitos de JavaScript. 
+Sou a Liliam Yamada, uma programadora front end. Atualmente aprendendo conceitos de Docker e banco de dados. 
 <br>
 <br>
 Criação de projetos com:
